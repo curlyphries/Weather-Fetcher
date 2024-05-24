@@ -4,17 +4,6 @@ Here's a README page styled similarly to the provided example, complete with ico
 
 # Weather Fetcher 🌦️
 
-'''
-![Stars](https://img.shields.io/github/stars/your-repo/weather-fetcher.svg?style=social)
-![Forks](https://img.shields.io/github/forks/your-repo/weather-fetcher.svg?style=social)
-![Watchers](https://img.shields.io/github/watchers/your-repo/weather-fetcher.svg?style=social)
-![Repo Size](https://img.shields.io/github/repo-size/your-repo/weather-fetcher.svg)
-![Languages](https://img.shields.io/github/languages/count/your-repo/weather-fetcher.svg)
-![Top Language](https://img.shields.io/github/languages/top/your-repo/weather-fetcher.svg)
-![Last Commit](https://img.shields.io/github/last-commit/your-repo/weather-fetcher.svg)
-![Open Issues](https://img.shields.io/github/issues/your-repo/weather-fetcher.svg)
-'''
-
 Weather Fetcher is a Python script designed to fetch and display current weather information for a specified city and state within the United States. It utilizes the OpenWeather API to obtain geocoding and weather data.
 
 ## Features ⭐
