@@ -120,6 +120,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
----
-
-For further information or queries, please contact [Your Name] at [Your Email].
