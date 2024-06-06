@@ -25,8 +25,8 @@ Weather Fetcher is a Python script designed to fetch and display current weather
 
 1. **Clone the repository or download the script**:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/curlyphries/open-weather-map.git
+   cd open-weather-map
    ```
 
 2. **Install the required Python packages**:
