@@ -1,4 +1,3 @@
-Here's a README page styled similarly to the provided example, complete with icons and a user-friendly format.
 
 ---
 
